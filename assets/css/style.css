@@ -87,6 +87,7 @@ Section Styles
 section {
     clear: both;
     width: 898px;
+    padding-bottom: 50px;
     margin-left: auto;
     margin-right: auto;
     padding: 30px;
